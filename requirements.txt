@@ -1,0 +1,14 @@
+streamlit
+pyngrok
+keras
+sklearn
+tenserflow
+numpy
+cv2
+os
+matplotlib
+skimage
+pandas
+sys
+math
+glob
