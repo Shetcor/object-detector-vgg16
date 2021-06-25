@@ -1,6 +1,14 @@
 # object-detector-vgg16
-Link to application
-http://4e3b27b8368d.ngrok.io/
 
-Live Demostration
-https://drive.google.com/file/d/1__ppnZJxmhDZwg7G-ehXVI1mtD0SDF4I/view?usp=sharing
+# CONTRIBUTORS
+R181600B - Sheunesu C Tazvivinga
+R181558W - Tafadzwa N Yemeke
+ 
+# Link to application
+http://05dff4dae320.ngrok.io/
+
+# Live Demostration on Youtube
+https://youtu.be/OnajLpWj3gE
+
+# Source code - Colab File
+https://colab.research.google.com/drive/14DexuCtaz7E3j0qsdfBkaR5ef0uB0AsO?usp=sharing
